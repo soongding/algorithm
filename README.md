@@ -13,6 +13,6 @@
 [문제 풀이 전체보기](https://github.com/soongding/algorithm/issues)  
 [문제별 풀이 보기](https://github.com/soongding/algorithm/milestones)  
 
-알고리즘 - 평일, 1일 1시간 1문제 (프로그래머스 레벨 2)  
+알고리즘 - 평일, 1일 1시간 1문제 (무조건 프로그래머스 레벨 2 이상)  
 CS - 토, 일 하루 모여서 공부했던거 다 털기 (주에 1회)  
 자소서 첨삭(~9.26)  
