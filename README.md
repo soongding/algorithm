@@ -1,4 +1,4 @@
-# Issues로 풀이 및 해석을 진행하고 있습니다
+# [Issues](https://github.com/soongding/algorithm/issues?q=is%3Aissue+is%3Aclosed)로 풀이 및 해석을 진행하고 있습니다
 
 # algorithm
 
